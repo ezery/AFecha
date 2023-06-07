@@ -11,7 +11,7 @@ public class Principal {
 		Scanner input = new Scanner(System.in);
 
 		Fecha f = new Fecha(17,4,2008);
-		Alumno a = new Alumno("Pereira","Tercero",100,f);
+		Alumno a = new Alumno("Gomez","Segundo",100,f);
 		
 		System.out.println(a.toString());
 
